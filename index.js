@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const botArgs = {
-    host: 'Chaos_SMP-tHvy.aternos.me:27024', 
-    port: 25565,
+    host: 'Chaos_SMP-tHvy.aternos.me', 
+    port: 27024,
     username: 'GuardianBot',
     version: '1.21.11' 
 };
